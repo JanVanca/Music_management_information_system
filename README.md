@@ -1,7 +1,7 @@
 #  Music management information system
-This console application was created in Java programming language as a school assignment of the Technical University in Koöice.
+This console application was created in Java programming language as a school assignment of the Technical University in Ko≈°ice.
 
-##Task assignment:
+## Task assignment:
 Design a music festival management information system that will allow you to add a new band, keep track of the bands, create a program for when the bands will play, and sell tickets. The assignment must contain the following parts (evaluation in brackets)
 
 1. UML class diagrams describing all classes and interfaces. Diagrams must contain the relationships between entities and their cardinality (5).
